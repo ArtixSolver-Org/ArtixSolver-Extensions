@@ -7,9 +7,12 @@
 <p align="center">
   <a href="https://artixsolver.online/extensions"><img src="https://img.shields.io/badge/Release-v0.1.7-orange" alt="Release"></a>
   <a href="https://opensource.org/licenses/MIT"><img src="https://img.shields.io/badge/License-MIT-blue" alt="License: MIT"></a>
-  <img src="https://img.shields.io/badge/Chrome-supported-green" alt="Chrome">
-  <img src="https://img.shields.io/badge/Firefox-supported-green" alt="Firefox">
-  <a href="https://artixsolver.online/discord"><img src="https://img.shields.io/badge/Discord-2k-5865F2?logo=discord&logoColor=white" alt="Discord"></a>
+  <a href="https://artixsolver.online/discord"><img src="https://img.shields.io/badge/Discord-1.5k-5865F2?logo=discord&logoColor=white" alt="Discord"></a>
+</p>
+
+<p align="center">
+  <a href="https://artixsolver.online/extensions"><img src="https://img.shields.io/badge/Chrome-supported-green" alt="Chrome supported"></a>
+  <a href="https://artixsolver.online/extensions"><img src="https://img.shields.io/badge/Firefox-supported-green" alt="Firefox supported"></a>
 </p>
 
 A browser extension that automatically solves hCaptcha challenges using the [Artix Solver](https://artixsolver.online) API.
