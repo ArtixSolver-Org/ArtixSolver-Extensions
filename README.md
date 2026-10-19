@@ -2,7 +2,7 @@
   <img src="https://artixsolver.online/assets/artix-logo.png" alt="Artix Solver logo" width="128">
 </p>
 
-# Artix Solver Browser Extension
+<h1 align="center">Artix Solver hCaptcha Solver Extension</h1>
 
 <p align="center">
   <a href="https://artixsolver.online/extensions"><img src="https://img.shields.io/badge/Release-v0.1.7-orange" alt="Release"></a>
