@@ -5,7 +5,7 @@
 <h1 align="center">Artix Solver hCaptcha Solver Extension</h1>
 
 <p align="center">
-  <a href="https://artixsolver.online/extensions"><img src="https://img.shields.io/badge/Release-v0.1.7-orange" alt="Release"></a>
+  <a href="https://artixsolver.online/extensions"><img src="https://img.shields.io/badge/Release-v0.1.12-orange" alt="Release"></a>
   <a href="https://opensource.org/licenses/MIT"><img src="https://img.shields.io/badge/License-MIT-blue" alt="License: MIT"></a>
   <a href="https://artixsolver.online/discord"><img src="https://img.shields.io/badge/Discord-1.5k-5865F2?logo=discord&logoColor=white" alt="Discord"></a>
 </p>
@@ -35,7 +35,7 @@ To protect against abuse and to preserve our edge, the extension's source code i
 ## Credits
 
 - **Free:** 100 credits per day
-- **With your own API key:** 250 credits per day. Sign up at [artixsolver.online](https://artixsolver.online) and use your key.
+- **With your own API key:** 1,500 credits per day. Sign up at [artixsolver.online](https://artixsolver.online) and use your key.
 
 ---
 
